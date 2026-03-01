@@ -23,8 +23,14 @@ It simulates a live cyber threat intelligence monitoring platform with interacti
 (Add your demo video link here)
 
 ---
-📊 Project Presentation
-Presentation.pptx
+---
+
+## 📊 Project Presentation
+
+[Presentation.pptx](./Presentation.pptx)
+
+---
+
 ----
 ## 🚀 Project Overview
 
