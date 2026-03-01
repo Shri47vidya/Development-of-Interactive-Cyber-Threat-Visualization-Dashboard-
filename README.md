@@ -1,3 +1,4 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Development-of-Interactive-Cyber-Threat-Visualization-Dashboard
+Development of Interactive Cyber Threat Visualization Dashboard 
+>>>>>>> 458e192598abdf5dbfe6f35be2f8c7d53f71ac4c
